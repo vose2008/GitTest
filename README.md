@@ -1,6 +1,6 @@
 ###git test
 -----------
-
-1.add new    
-2.smme ccdd
-3.gundam  
+print "hello world"
+public void(0) { 
+	pirntf("hello world");
+}
